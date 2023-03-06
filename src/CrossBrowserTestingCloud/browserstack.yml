@@ -1,0 +1,22 @@
+userName: parabpravin_xWAI3l
+accessKey: pq6xAGmWCvMa99sscX5T
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+  - os: Windows
+    osVersion: 8
+    browserName: Chrome
+    browserVersion: 107.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1
+    paralelsPerPlatform: 1
+    browserstackLocal : true
+    buildName : browserstack-build-1
+    projectName : BrowserStack Sample
+    debug : false
+    consoleLogs : errors

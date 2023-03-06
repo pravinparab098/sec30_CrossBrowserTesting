@@ -1,0 +1,12 @@
+15:34:02.370 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: D:\SeleniumWebDriver\sec30_CrossBrowserTesting\browserstack.yml.
+15:34:02.372 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:34:02.379 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:34:02.380 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+15:36:37.767 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: D:\SeleniumWebDriver\sec30_CrossBrowserTesting\browserstack.yml.
+15:36:37.770 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:36:37.775 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:36:37.778 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+15:38:43.775 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: D:\SeleniumWebDriver\sec30_CrossBrowserTesting\browserstack.yml.
+15:38:43.778 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:38:43.788 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+15:38:43.793 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey

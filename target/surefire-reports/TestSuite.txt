@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.673 s <<< FAILURE! - in TestSuite
+CrossBrowserTestingCloud.CrossBrowserTesting.titleCheck  Time elapsed: 1.556 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Unable to parse remote response: Authorization required 
+Host info: host: 'DESKTOP-6891DEK', ip: '192.168.1.123'
+	at CrossBrowserTestingCloud.CrossBrowserTesting.titleCheck(CrossBrowserTesting.java:17)
+Caused by: org.openqa.selenium.json.JsonException: Unable to parse: Authorization required
+	at CrossBrowserTestingCloud.CrossBrowserTesting.titleCheck(CrossBrowserTesting.java:17)
+Caused by: org.openqa.selenium.json.JsonException: 
+Unable to determine type from: A. Last 1 characters read: A
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: driver.version: RemoteWebDriver
+	at CrossBrowserTestingCloud.CrossBrowserTesting.titleCheck(CrossBrowserTesting.java:17)
+
